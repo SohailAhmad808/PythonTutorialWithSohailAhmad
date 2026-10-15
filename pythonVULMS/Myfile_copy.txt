@@ -1,0 +1,3 @@
+This file has been created by reading/writing the entire file at one go 
+
+This is my first file Handling program in python.

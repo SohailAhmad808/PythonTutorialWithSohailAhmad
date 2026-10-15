@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../../../Final Year Project"
+		},
+		{
+			"path": "../../../FYP"
+		},
+		{
+			"path": "../../../../../../xampp/htdocs/phpcourse"
+		},
+		{
+			"path": "../../../../../../xampp/htdocs/FYP"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../../../xampp/htdocs/MasihaProject"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "FYP"
+	}
+}
